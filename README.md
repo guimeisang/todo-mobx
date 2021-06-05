@@ -1,1 +1,1 @@
-Base project for the Todo state manager series
+use react/ts/mobx in base project for the todo state manager series
